@@ -1,0 +1,50 @@
+﻿body {
+    font-size: large;
+    background-color: lightgrey;
+}
+h2{
+    color:green;
+    font:bold;
+}
+.space {
+    margin-left: 15px;
+    margin-bottom:20px;
+} 
+.border{
+    border:solid;
+    border-color:black;
+}
+.exitButton{
+    color:orangered;
+}
+.font{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+/*For the WelcomePage*/
+.auto-style1WP {
+    width: 50%;
+}
+
+.auto-style2WP {
+    width: 735px;
+}
+
+.auto-style3WP {
+    height: 23px;
+}
+
+
+.auto-style4WP {
+    width: 735px;
+    height: 25px;
+}
+
+.auto-style5WP {
+    height: 25px;
+}
+
+.auto-style6WP {
+    width: 586px;
+}
